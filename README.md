@@ -6,15 +6,13 @@
 <h2>Estrutura do projeto</h2>
 <pre>
   CPF-VALIDATOR/
-  ├── docs/                    # Pasta que contém os arquivos para deploy
-  │   └── index.html           # Página principal 
-  │
-  └── src/                     # Códigos-fonte
-      └── assets/
-          ├── css/
-          │   └── style.css    # Arquivo de estilo do site
-          └── js/
-              └── main.js      # Script principal
+  ├── src/                     # Códigos-fonte
+  │   └── assets/
+  │       ├── css/
+  │       │   └── style.css    # Arquivo de estilo do site
+  │       └── js/
+  │           └── main.js      # Script principal
+  └── index.heml	       # Página principal
 </pre>
 <p>Alguns arquivos foram omitidos por não serem essenciais para a compreensão da estrutura do projeto.</p>
 
