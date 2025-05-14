@@ -58,7 +58,8 @@ button:hover {
 }
 
 .msg {
-    margin: .5em; padding: 15px;
+    margin: .5em auto; padding: 10px;
+    width: 96%;
     border-radius: 10px;
 }
 
